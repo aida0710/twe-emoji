@@ -5,3 +5,7 @@ export default async function Home() {
       </div>
   )
 }
+
+
+//https://github.com/twitter/twemoji
+//https://twemoji.twitter.com/
